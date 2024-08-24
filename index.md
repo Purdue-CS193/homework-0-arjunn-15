@@ -24,10 +24,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[Spotify](https://open.spotify.com/).
+
 ```
 
 ```
-** List of favorite things about CS193 **
+**List of favorite things about CS193**
 
 - meets once a week
 - many PSO sessions
