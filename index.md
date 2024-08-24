@@ -25,11 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```
-box
-```
 
-textbox?
+```
+1. LINK
+2. **boldtext**
+
+[spotify](https://open.spotify.com/)
+
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
