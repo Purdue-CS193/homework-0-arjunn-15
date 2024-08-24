@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ```
-1. LIN
+1. LINK
 2. **boldtext**
 
 [spotify](https://open.spotify.com/)
